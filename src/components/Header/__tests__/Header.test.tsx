@@ -24,7 +24,7 @@ describe('Testes para o componente Header', () => {
               titulo: 'Elden Ring'
             },
             {
-              id: 1,
+              id: 2,
               categoria: 'RPG',
               imagem: '',
               plataformas: ['Windows', 'PS5', 'Xbox Series S/X'],
